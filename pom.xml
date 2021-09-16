@@ -98,7 +98,7 @@
                         <webResources>
                           <resource>
                             <!-- this is relative to the pom.xml directory -->
-                            <directory>src/main/</directory>
+                            <directory>src/main/webapp/WEB-INF/web</directory>
                           </resource>
                         </webResources>
                       </configuration>
